@@ -12,14 +12,8 @@ header{
     justify-content: space-evenly;
     align-items: center;
     border-bottom:1px solid #e1d1d1;
-    /* position: fixed; */
 }
-.banner-img{
-    width: 100%;
-}
-.banner-container{
-    margin: 40px 0px;
-}
+
 #logo{
     height: 40px;
     
@@ -123,25 +117,12 @@ header{
     font-weight: 700;
 
 }
-/* .banner-img{
+.banner-img{
     width: 100%;
 }
 .banner-container{
     margin: 40px 0px;
-} */
-/* .category-heading{
-    text-transform: uppercase;
-    color: #3e4152;
-    letter-spacing: .15em;
-    font-size: 1.8em;
-    margin: 50px 0 10px 30px;
-    max-height: 5em;
-    font-weight: 700;
-    margin: 80px 0px;
-} */
-/* .sale-item{
-     width: 168px;
-} */
+}
 .items{
     width: 80%;
     margin: 50px 10%;
