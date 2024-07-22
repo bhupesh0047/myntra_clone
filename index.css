@@ -24,6 +24,9 @@ header{
 .action-bar{
     margin-right: 4%;
 }
+#banner-img2{
+    width: 100%;
+}
 .nav-bar a{
     text-decoration: none;
     font-size: 14px;
